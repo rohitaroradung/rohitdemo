@@ -1,0 +1,27 @@
+body{
+    background-color: azure;
+    margin: 5px;
+
+}
+table{
+    border: 1px solid blue;
+    border-spacing:5px;
+    border-collapse: inherit;
+    
+    align-self: center;
+    
+
+    
+}
+th,td{
+    padding: 5px;
+    text-align: center;
+    border:1px solid blue
+    
+
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25;
+ text-align: center;
+}
